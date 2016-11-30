@@ -1,0 +1,16 @@
+{
+    "name": "moiz2050/stripe-php",
+    "description": "Stripe php api package for laravel 5.*",
+    "require": {
+        "illuminate/support": "^5.2",
+        "stripe/stripe-php": "^3.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mueez Sattar Khan",
+            "email": "moizsattar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
